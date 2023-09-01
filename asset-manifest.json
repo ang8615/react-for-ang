@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/ang8615/react-for-ang/static/js/main.b4fcffda.js",
-    "index.html": "/ang8615/react-for-ang/index.html",
-    "main.b4fcffda.js.map": "/ang8615/react-for-ang/static/js/main.b4fcffda.js.map"
+    "main.js": "/react-for-ang/static/js/main.b4fcffda.js",
+    "index.html": "/react-for-ang/index.html",
+    "main.b4fcffda.js.map": "/react-for-ang/static/js/main.b4fcffda.js.map"
   },
   "entrypoints": [
     "static/js/main.b4fcffda.js"
